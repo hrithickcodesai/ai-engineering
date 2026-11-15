@@ -1,0 +1,12 @@
+[project]
+name = "ai-engineering"
+version = "0.1.0"
+description = "Learning AI engineering from LLM internals to serving to agents, by doing"
+requires-python = ">=3.12,<3.14"
+dependencies = [
+    "torch>=2.4",
+    "numpy>=1.26",
+    "matplotlib>=3.8",
+    "jupyter>=1.0",
+    "ipykernel>=6.29",
+]
